@@ -1,0 +1,37 @@
+{
+  "employeeList": [
+    {
+      "firstName": "Steve",
+      "lastName": "Roggers",
+      "eMail": "steve@gmail.com",
+      "mobile": "9998887776",
+      "address1": "street 1",
+      "address2": "America",
+      "city": "Broklyn",
+      "salaryCredited": true,
+      "id": 3
+    },
+    {
+      "firstName": "Tony ",
+      "lastName": "Stark",
+      "eMail": "tony@gmail.com",
+      "mobile": "8885552224",
+      "address1": "street 2",
+      "address2": "Us",
+      "city": "New york",
+      "salaryCredited": false,
+      "id": 4
+    },
+    {
+      "firstName": "Thor",
+      "lastName": "Oddin",
+      "eMail": "thor@gmail.com",
+      "mobile": "1112223336",
+      "address1": "Asgard",
+      "address2": "earth",
+      "city": "Asgard",
+      "salaryCredited": true,
+      "id": 5
+    }
+  ]
+}
